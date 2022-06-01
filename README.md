@@ -1,6 +1,6 @@
 # Pewlett-Hackard-Analysis
 ### Overview
-Bobby and I received word from our manager that further analysis on retirement statistics and further experience using PostgresSQL. Our objective in the analysis of Pewlett-Hackard's employee database is two-fold. First, we determined how many employees are near retirement by position in the company. Secondly, the new mentorship program needs experienced employees, that is those who are willing to step down from their previous position to a part time leadership position. These candidates will be selected from the employees nearing retirement. We organized and analyzed these enormous data sets using PostgresSQL, a relational database manager.
+Bobby and I received word from our manager that further analysis on retirement statistics and further experience using PostgresSQL is required. Our objective in the analysis of Pewlett-Hackard's employee database is two-fold. First, we determined how many employees are near retirement by position in the company. Secondly, the new mentorship program needs experienced employees, that is those who are willing to step down from their previous position to a part time leadership position. These candidates will be selected from the employees nearing retirement. We organized and analyzed these enormous data sets using PostgresSQL, a relational database manager.
 
 ### Results
 #### Retiring employees by position in the company
